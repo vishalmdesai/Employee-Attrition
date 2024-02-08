@@ -6,3 +6,5 @@ Employee attrition refers to the natural process of employees leaving an organiz
 
 ## 📊 Power Bi Dashboard
 <br>
+![Dashboard ScreenShot](https://github.com/vishalmdesai/Employee-Attrition/assets/153223711/a5655554-d7de-4e9b-bf92-cc36c9e1b24a)
+
